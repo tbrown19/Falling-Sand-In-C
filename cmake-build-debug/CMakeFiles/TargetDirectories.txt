@@ -1,0 +1,3 @@
+/Users/Tyler/Documents/Code/C/falling-sand/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Tyler/Documents/Code/C/falling-sand/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Tyler/Documents/Code/C/falling-sand/cmake-build-debug/CMakeFiles/falling_sand.dir
